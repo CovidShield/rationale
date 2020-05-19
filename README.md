@@ -91,8 +91,8 @@ It will only be possible for a user to share random IDs if a positive COVID-19 t
 #### Use of COVID Shield is voluntary
 The user must choose to download and turn on the app, and they can choose to turn off or uninstall the app at any time. The random IDs sent by the app change every 10-20 minutes to prevent tracking. COVID Shield does not tie COVID-19 test results directly to app users, so their random IDs cannot be used to determine their identity. After receiving a positive test result, a user can choose to share random IDs. Sharing is voluntary and not required to continue receiving exposure notifications.
 
-#### COVID Shield needs to be easy for all Canadians to use and understand
-We designed COVID Shield for all Canadians. This means [writing in plain language](https://design.gccollab.ca/content/content-guidelines), ensuring the web portal meets [WCAG guidelines](https://www.w3.org/TR/WCAG20/), and focusing on clear information hierarchy and straightforward design.
+#### COVID Shield is easy to use and accessible
+We designed COVID Shield for all Canadians. This means [writing in plain language](https://design.gccollab.ca/content/content-guidelines), ensuring the web portal meets [WCAG guidelines](https://www.w3.org/TR/WCAG21/), and focusing on clear information hierarchy and straightforward design.
 
 #### COVID Shield is not a health app
 We direct users to already published resources from Canadian health authorities. COVID Shield does not provide medical advice. It is complementary to any existing public health efforts, including traditional contact tracing performed by trained health care professionals.
