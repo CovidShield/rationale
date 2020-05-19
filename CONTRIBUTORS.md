@@ -13,6 +13,7 @@
 * Fred Ells
 * Genevieve Luyt
 * Geoffrey Foster
+* Guillaume Granger
 * Hannah King
 * Henry Tao
 * Jack McCracken
