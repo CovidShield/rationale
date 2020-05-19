@@ -46,7 +46,7 @@ Alongside the  [principles laid out by the Federal, Provincial and Territorial P
 
 * Focus on individual consent, trust, and clarity
 * Provide as much value as possible with a focused feature set
-* Be simple enough for all Canadians to understand and use
+* Be easy to use and accessible
 * Avoid false positives by optimizing for test result certainty over self-reporting
 * Be as unobtrusive as possible in people’s lives by requiring minimal interaction
 * Request only the permissions necessary for exposure notification to work
@@ -61,7 +61,7 @@ Alongside the  [principles laid out by the Federal, Provincial and Territorial P
 ## Key decisions
 
 #### Use Apple/Google Exposure Notification technology
-The need for digital contact tracing is both urgent and important. While there are many possible approaches, we chose Apple and Google’s [Privacy-Preserving Contact Tracing](https://www.apple.com/covid19/contacttracing) for COVID Shield because it does not rely on any personally identifiable data.
+The need for digital contact tracing is both urgent and important. While there are many possible approaches, we chose Apple and Google’s [Privacy-Preserving Contact Tracing](https://www.apple.com/covid19/contacttracing) for COVID Shield because it allows us to provide exposure notifications without sharing any personally identifiable information.
 
 #### Trust in test delivery
 By becoming part of the test results delivery process, and not the test distribution or administration processes, COVID Shield can be used to connect more directly with patients with positive test results without massive integration efforts between test manufacturers, health agencies, and other organizations. The goal is maximum certainty with minimal required integration with existing health systems and software.
