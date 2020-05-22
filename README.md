@@ -99,13 +99,15 @@ We direct users to already-published resources from government health authoritie
 
 ## Questions
 
+#### How can I use COVID Shield?
+COVID Shield is provided as a reference for your local public health authority to build their own app. If you are interested in using COVID Shield, please contact your local government representative and ask what they are doing about exposure notification for COVID-19.
+
 #### Who built COVID Shield?
 We are a group of Shopify volunteers who want to help to slow the spread of COVID-19 by offering our skills and experience developing scalable, easy to use applications. We are releasing COVID Shield free of charge with a flexible open-source license.
 
 For questions, we can be reached at press@covidshield.app.
 
 #### How can I contribute?
-
 See [our guidelines](/CONTRIBUTING.md) for more information on contributing to the project.
 
 ## Additional resources
