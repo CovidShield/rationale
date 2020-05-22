@@ -2,7 +2,8 @@
 * Adam Whitcroft
 * Alexandra Clark
 * Alisha Giroux
-* Anne-Marie Leger
+* Ann Buechner
+* Anne-Marie Léger
 * Burke Libbey
 * Catherine Jones
 * Clayton Smith
@@ -22,6 +23,7 @@
 * Jordan Good
 * Kyle Peatt
 * Michael Hughes
+* Mike Drohan
 * Nataly Sheinin
 * Penny Allen
 * Pete Yaworski
