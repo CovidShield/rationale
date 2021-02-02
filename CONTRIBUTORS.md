@@ -1,3 +1,11 @@
+Initial TSC (Technical Steering Committee) Members:
+
+* Aaron Olson
+* Jonathan Pulsifer
+* Kyle Peatt
+
+Initial Contributors:
+
 * Aaron Olson
 * Adam Whitcroft
 * Alexandra Clark
